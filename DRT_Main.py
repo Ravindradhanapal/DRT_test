@@ -33,6 +33,8 @@ def main():
     # Get constants
     colour = Colours()
 
+
+
     # Declare box variations
     boxVariables = [["Window Size", ["Small", "Medium", "Large"]],
                     ["Object Size", ["Small", "Medium", "Large"]],
